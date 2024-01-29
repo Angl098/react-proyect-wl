@@ -1,0 +1,23 @@
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color: blanchedalmond;
+}
+
+.Pages{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+    gap: 40px; 
+}
+
+.icons{
+    /* height: 20px; */
+    background-color: transparent;
+    border: 2px solid black; 
+    border-radius: 50px;
+    padding: 7px 16px 7px 16px;
+}
